@@ -135,19 +135,7 @@ function App() {
     <Text>Hello </Text>
         
 
-          <Text>Hello </Text>
-        <Text>Hello </Text>
-        <Text>Hello </Text>
-        <Text>Hello </Text>
-        <Text>Hello </Text>
-        <Text>Hello </Text>
-        <Text>Hello </Text>
-        <Text>Hello </Text>
-        <Text>Hello </Text>
-        <Text>Hello </Text>
-        <Text>Hello </Text>
-        <Text>Hello </Text>
-        <Text>Hello </Text>
+          
           <Text>Hello </Text>
 <TextInput>Write</TextInput>
        
