@@ -137,7 +137,7 @@ function App() {
 
           
           <Text>Hello </Text>
-<TextInput>Write</TextInput>
+          <Text>Hello </Text><TextInput>Write</TextInput>
        
           </ScrollView>
    </View>
